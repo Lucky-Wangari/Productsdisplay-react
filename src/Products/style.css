@@ -1,0 +1,21 @@
+.products{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.products img{
+   width: 50%;
+   height: 45%;
+  
+}
+.products div{
+   border: solid rgb(26, 25, 25);
+   margin-bottom: 2%;
+   border-radius: 5px;
+   text-align: center;
+   width: 30%;
+}
+.products  button{
+     background-color: rgb(151, 19, 70);
+     border: none;
+}

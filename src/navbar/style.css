@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #79f1e1;
+    border: 1px solid #3C3A3A;
+    /* padding: 10px; */
+    margin-bottom: 20px; 
+  }
+  .navbar a {
+      color: #0A0A0A;
+      text-decoration: none;
+      text-align: center;
+      /* margin-left: 20%; */
+      
+    }
+.login {
+   margin-left: 40%;
+   padding-right: 40px;
+}
+ 
